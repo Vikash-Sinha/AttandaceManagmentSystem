@@ -9,7 +9,7 @@ from tkinter import filedialog
 from tkinter import font
 import subprocess
 import os
-import re
+
 
 #color formating for text area
  # Python keywords
