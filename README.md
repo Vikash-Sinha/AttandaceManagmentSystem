@@ -1,4 +1,4 @@
-# IDE-for-python-and-java-Both-Binod-IDE-
+# One-IDE-for-python-and-java (Binod-IDE)
 
 
 # Description
