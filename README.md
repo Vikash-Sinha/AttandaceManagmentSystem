@@ -10,10 +10,7 @@ It has console features where you can see the output if there is an error in you
 
 # install these package to run Binode IDE
 
-/*
-from tkinter import *
-from tkinter import filedialog
-from tkinter import font
-import subprocess
-import os
-*/
+
+1. tkinter
+2. subprocess
+3. os
