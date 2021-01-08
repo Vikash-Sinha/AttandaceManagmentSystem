@@ -3,9 +3,7 @@
 
 # Description
 
-Binod IDE can be use by java and python developer both they can write and run code very eaisly from here. 
-It has diffrent color for keywords,comments, string values etc to support developer to understand code very eaisly.
-It has console features where you can see the output if there is an error in your program and then you run it. error message will show on console window.
+Binod IDE can be used by java and python developers both they can write and run code very easily from here. It has different colors for keywords,comments, string values etc to support developers to understand code very easily. It has console features where you can see the output if there is an error in your program and then you run it. error message will show on the console window.
 
 
 # install these package to run Binode IDE
